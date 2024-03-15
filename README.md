@@ -8,6 +8,6 @@ Can also be viewed by loading the Github notebook URL at: https://nbviewer.org/
 
 For module "Tools for Data Science"
 
-## analysingstockdata-jupyternotebook
+## analyzingstockdata-jupyternotebook
 
 For module "Python Project for Data Science"
