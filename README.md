@@ -15,3 +15,9 @@ Related screenshots for submission are in the assessment_images directory.
 For module "Python Project for Data Science"
 
 Related screenshots for submission are in the assessment_images directory.
+
+## Databases and SQL
+
+Folder "databases_and_sql" has the Jupyter notebook and related SQLite DB for 
+the Final Assignment: "Database Querying using SQLite" for the course 
+"Databases and SQL for Data Science with Python".
