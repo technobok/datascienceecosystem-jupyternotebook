@@ -28,3 +28,9 @@ the Final Assignment: "Database Querying using SQLite".
 For module "Data Analysis with Python" (Module 7)
 
 Related screenshots for submission are in the assessment_images directory.
+
+## Data Visualization with Python
+
+Related screenshots, Jupyter notebook and python code for the Final assignment.
+
+For module "Data Visualization with Python" (Module 8)
