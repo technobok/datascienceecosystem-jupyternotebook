@@ -34,3 +34,10 @@ Related screenshots for submission are in the assessment_images directory.
 Related screenshots, Jupyter notebook and python code for the Final assignment.
 
 For module "Data Visualization with Python" (Module 8)
+
+## Machine Learning with Python
+
+Jupyter notebook: ML0101EN_SkillUp_FinalAssignment.ipynb
+
+For module "Machine Learning with Python". Honours Final Project:
+Classification with Python.
