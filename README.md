@@ -41,3 +41,8 @@ Jupyter notebook: ML0101EN_SkillUp_FinalAssignment.ipynb
 
 For module "Machine Learning with Python". Honours Final Project:
 Classification with Python.
+
+## Applied Data Science Capstone
+
+For course 10: Applied Data Science Capstone. All related Jupyter notebooks and
+python code.
